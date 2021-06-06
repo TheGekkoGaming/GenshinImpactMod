@@ -2,6 +2,7 @@
   "block.genshin_impact_mod.cedar_wood_leaves": "Cedar Wood Leaves",
   "item.genshin_impact_mod.dendro_vision": "Dendro Vision",
   "block.genshin_impact_mod.cedar_wood_planks": "Cedar Wood Planks",
+  "item.genshin_impact_mod.hilichurl_mob_1_spawn_egg": "Hilichurl Spawn Egg",
   "advancements.i_have_a_vision_advancement.descr": "Obtain a Blank Vision to give an element",
   "block.genshin_impact_mod.cedar_wood_fence_gate": "Cedar Wood Fence Gate",
   "block.genshin_impact_mod.cedar_wood_log": "Cedar Wood Log",
@@ -17,5 +18,6 @@
   "item.genshin_impact_mod.hydro_vision": "Hydro Vision",
   "itemGroup.tabgenshin_impact_mod_creative_tab": "Genshin Impact Mod",
   "item.genshin_impact_mod.electro_vision": "Electro Vision",
+  "entity.genshin_impact_mod.hilichurl_mob_1": "Hilichurl",
   "item.genshin_impact_mod.blank_vision": "Blank Vision"
 }
