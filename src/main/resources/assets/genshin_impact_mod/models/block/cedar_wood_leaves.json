@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "genshin_impact_mod:blocks/cedarwoodleaves",
+    "particle": "genshin_impact_mod:blocks/cedarwoodleaves"
+  }
+}

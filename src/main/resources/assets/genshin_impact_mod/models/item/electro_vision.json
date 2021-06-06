@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "genshin_impact_mod:items/electro_vision"
+  }
+}

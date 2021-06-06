@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "genshin_impact_mod:blocks/cedarwoodplanks",
+    "bottom": "genshin_impact_mod:blocks/cedarwoodplanks",
+    "top": "genshin_impact_mod:blocks/cedarwoodplanks",
+    "side": "genshin_impact_mod:blocks/cedarwoodplanks"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "genshin_impact_mod:block/cedar_wood_log"
+    },
+    "facing=north": {
+      "model": "genshin_impact_mod:block/cedar_wood_log"
+    },
+    "facing=east": {
+      "model": "genshin_impact_mod:block/cedar_wood_log",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "genshin_impact_mod:block/cedar_wood_log",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "genshin_impact_mod:block/cedar_wood_log",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "genshin_impact_mod:block/cedar_wood_log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

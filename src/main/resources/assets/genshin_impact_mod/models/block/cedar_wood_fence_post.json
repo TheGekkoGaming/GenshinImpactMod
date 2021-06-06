@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "genshin_impact_mod:blocks/cedarwoodplanks",
+    "particle": "genshin_impact_mod:blocks/cedarwoodplanks"
+  }
+}

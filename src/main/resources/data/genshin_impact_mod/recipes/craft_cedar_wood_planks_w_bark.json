@@ -1,0 +1,16 @@
+{
+  "group": "genshin_impact_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "genshin_impact_mod:cedar_wood_bark"
+    }
+  },
+  "result": {
+    "item": "genshin_impact_mod:cedar_wood_planks",
+    "count": 4
+  }
+}

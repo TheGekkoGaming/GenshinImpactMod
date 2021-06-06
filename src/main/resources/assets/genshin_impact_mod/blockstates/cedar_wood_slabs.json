@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "genshin_impact_mod:block/cedar_wood_slabs"
+    },
+    "type=top": {
+      "model": "genshin_impact_mod:block/cedar_wood_slabs_top"
+    },
+    "type=double": {
+      "model": "genshin_impact_mod:block/cedar_wood_slabs_full"
+    }
+  }
+}

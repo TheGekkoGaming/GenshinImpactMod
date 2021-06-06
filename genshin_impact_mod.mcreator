@@ -1,0 +1,326 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BlankVision",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blank_vision"
+    },
+    {
+      "name": "CraftBlankVision",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_blank_vision"
+    },
+    {
+      "name": "GenshinImpactModCreativeTab",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "genshin_impact_mod_creative_tab"
+    },
+    {
+      "name": "IHaveAVisionAdvancement",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "i_have_a_vision_advancement"
+    },
+    {
+      "name": "CedarWoodLog",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cedar_wood_log"
+    },
+    {
+      "name": "CedarWoodLeaves",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cedar_wood_leaves"
+    },
+    {
+      "name": "CedarWoodBark",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cedar_wood_bark"
+    },
+    {
+      "name": "CraftCedarWoodBark",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_cedar_wood_bark"
+    },
+    {
+      "name": "CedarWoodPlanks",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cedar_wood_planks"
+    },
+    {
+      "name": "CraftCedarWoodPlanksWLog",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_cedar_wood_planks_w_log"
+    },
+    {
+      "name": "CraftCedarWoodPlanksWBark",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_cedar_wood_planks_w_bark"
+    },
+    {
+      "name": "CraftSticksWCedarWoodPlanks",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_sticks_w_cedar_wood_planks"
+    },
+    {
+      "name": "CedarWoodStairs",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cedar_wood_stairs"
+    },
+    {
+      "name": "CraftCedarWoodStairsLeft",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_cedar_wood_stairs_left"
+    },
+    {
+      "name": "CraftCedarWoodStairsRight",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_cedar_wood_stairs_right"
+    },
+    {
+      "name": "CedarWoodSlabs",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cedar_wood_slabs"
+    },
+    {
+      "name": "CraftCedarWoodSlabs",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_cedar_wood_slabs"
+    },
+    {
+      "name": "CedarWoodFence",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cedar_wood_fence"
+    },
+    {
+      "name": "CraftCedarWoodFence",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_cedar_wood_fence"
+    },
+    {
+      "name": "CedarWoodFenceGate",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cedar_wood_fence_gate"
+    },
+    {
+      "name": "CraftCedarWoodFenceGate",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_cedar_wood_fence_gate"
+    },
+    {
+      "name": "ProcedureVisionsAreWIP",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "procedure_visions_are_wip",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "PyroVision",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyro_vision"
+    },
+    {
+      "name": "HydroVision",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hydro_vision"
+    },
+    {
+      "name": "TagLog",
+      "type": "tag",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tag_log"
+    },
+    {
+      "name": "AnemoVision",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anemo_vision"
+    },
+    {
+      "name": "ElectroVision",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electro_vision"
+    },
+    {
+      "name": "GeoVision",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "geo_vision"
+    },
+    {
+      "name": "CryoVision",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cryo_vision"
+    },
+    {
+      "name": "DendroVision",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dendro_vision"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.genshin_impact_mod.cedar_wood_leaves": "Cedar Wood Leaves",
+      "item.genshin_impact_mod.dendro_vision": "Dendro Vision",
+      "block.genshin_impact_mod.cedar_wood_planks": "Cedar Wood Planks",
+      "advancements.i_have_a_vision_advancement.descr": "Obtain a Blank Vision to give an element",
+      "block.genshin_impact_mod.cedar_wood_fence_gate": "Cedar Wood Fence Gate",
+      "block.genshin_impact_mod.cedar_wood_log": "Cedar Wood Log",
+      "item.genshin_impact_mod.pyro_vision": "Pyro Vision",
+      "item.genshin_impact_mod.cryo_vision": "Cryo Vision",
+      "block.genshin_impact_mod.cedar_wood_slabs": "Cedar Wood Slabs",
+      "block.genshin_impact_mod.cedar_wood_fence": "Cedar Wood Fence",
+      "item.genshin_impact_mod.geo_vision": "Geo Vision",
+      "advancements.i_have_a_vision_advancement.title": "I Have A Vision!",
+      "block.genshin_impact_mod.cedar_wood_bark": "Cedar Wood Bark",
+      "item.genshin_impact_mod.anemo_vision": "Anemo Vision",
+      "block.genshin_impact_mod.cedar_wood_stairs": "Cedar Wood Stairs",
+      "item.genshin_impact_mod.hydro_vision": "Hydro Vision",
+      "itemGroup.tabgenshin_impact_mod_creative_tab": "Genshin Impact Mod",
+      "item.genshin_impact_mod.electro_vision": "Electro Vision",
+      "item.genshin_impact_mod.blank_vision": "Blank Vision"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "genshin_impact_mod",
+    "modName": "Genshin Impact Mod",
+    "version": "1.0.0",
+    "author": "TheGe, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.genshinimpactmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

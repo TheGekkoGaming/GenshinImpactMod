@@ -1,0 +1,32 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "blank_vision",
+    "customModelName": "Normal",
+    "name": "Blank Vision",
+    "specialInfo": [
+      "A Vision with no Element yet..."
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:GenshinImpactModCreativeTab"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 0.0,
+    "attackSpeed": 1.0,
+    "enchantability": 0,
+    "damageVsEntity": 1.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "ProcedureVisionsAreWIP"
+    }
+  }
+}

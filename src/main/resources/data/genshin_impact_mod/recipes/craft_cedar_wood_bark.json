@@ -1,0 +1,22 @@
+{
+  "group": "genshin_impact_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "genshin_impact_mod:cedar_wood_log"
+    },
+    {
+      "item": "genshin_impact_mod:cedar_wood_log"
+    },
+    {
+      "item": "genshin_impact_mod:cedar_wood_log"
+    },
+    {
+      "item": "genshin_impact_mod:cedar_wood_log"
+    }
+  ],
+  "result": {
+    "item": "genshin_impact_mod:cedar_wood_bark",
+    "count": 3
+  }
+}

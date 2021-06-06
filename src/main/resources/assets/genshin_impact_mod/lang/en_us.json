@@ -1,0 +1,21 @@
+{
+  "block.genshin_impact_mod.cedar_wood_leaves": "Cedar Wood Leaves",
+  "item.genshin_impact_mod.dendro_vision": "Dendro Vision",
+  "block.genshin_impact_mod.cedar_wood_planks": "Cedar Wood Planks",
+  "advancements.i_have_a_vision_advancement.descr": "Obtain a Blank Vision to give an element",
+  "block.genshin_impact_mod.cedar_wood_fence_gate": "Cedar Wood Fence Gate",
+  "block.genshin_impact_mod.cedar_wood_log": "Cedar Wood Log",
+  "item.genshin_impact_mod.pyro_vision": "Pyro Vision",
+  "item.genshin_impact_mod.cryo_vision": "Cryo Vision",
+  "block.genshin_impact_mod.cedar_wood_slabs": "Cedar Wood Slabs",
+  "block.genshin_impact_mod.cedar_wood_fence": "Cedar Wood Fence",
+  "item.genshin_impact_mod.geo_vision": "Geo Vision",
+  "advancements.i_have_a_vision_advancement.title": "I Have A Vision!",
+  "block.genshin_impact_mod.cedar_wood_bark": "Cedar Wood Bark",
+  "item.genshin_impact_mod.anemo_vision": "Anemo Vision",
+  "block.genshin_impact_mod.cedar_wood_stairs": "Cedar Wood Stairs",
+  "item.genshin_impact_mod.hydro_vision": "Hydro Vision",
+  "itemGroup.tabgenshin_impact_mod_creative_tab": "Genshin Impact Mod",
+  "item.genshin_impact_mod.electro_vision": "Electro Vision",
+  "item.genshin_impact_mod.blank_vision": "Blank Vision"
+}

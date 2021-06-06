@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate_wall_open",
+  "textures": {
+    "particle": "genshin_impact_mod:blocks/cedarwoodplanks",
+    "texture": "genshin_impact_mod:blocks/cedarwoodplanks"
+  }
+}

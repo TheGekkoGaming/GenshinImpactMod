@@ -1,0 +1,7 @@
+{
+  "_fv": 18,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">player_right_click_item</field><next><block type=\"console_log\"><field name=\"message_type\">info</field><value name=\"message\"><block type=\"text\"><field name=\"TEXT\">Visions are not yet Implemented as intended. Please have patience. We are working on it!</field></block></value></block></next></block><block type=\"mcitem_all\" x=\"-74\" y=\"283\"><field name=\"value\">CUSTOM:BlankVision</field></block></xml>"
+  }
+}

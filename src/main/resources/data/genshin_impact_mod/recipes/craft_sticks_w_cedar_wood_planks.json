@@ -1,0 +1,16 @@
+{
+  "group": "genshin_impact_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "genshin_impact_mod:cedar_wood_planks"
+    },
+    {
+      "item": "genshin_impact_mod:cedar_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}
