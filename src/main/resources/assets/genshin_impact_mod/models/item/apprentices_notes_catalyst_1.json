@@ -1,0 +1,7 @@
+{
+  "parent": "genshin_impact_mod:custom/gim_apprentices_notes_1",
+  "textures": {
+    "1": "genshin_impact_mod:blocks/",
+    "particle": "genshin_impact_mod:items/gim_apprentices_notes_1_texture"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 1,
+    "texture": "gim_apprentices_notes_1_texture",
+    "customModelName": "gim_apprentices_notes_1:default",
+    "name": "Apprentices Notes Catalyst",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:GenshinImpactModCreativeTab"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Notes left behind by a top student.",
+      "Many useful spells are listed, and the",
+      "handwriting is beautiful"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 1,
+    "inventoryStackSize": 1
+  }
+}
